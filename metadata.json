@@ -1,0 +1,7 @@
+{
+  "name": "MiniMax Studio Pro - AI Giọng Nói",
+  "description": "Công cụ chuyển đổi văn bản thành giọng nói và nhân bản giọng nói AI đỉnh cao sử dụng công nghệ MiniMax. Tạo giọng nói tùy chỉnh và hội thoại tự nhiên với độ trễ thấp.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
